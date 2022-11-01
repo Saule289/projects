@@ -1,0 +1,152 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    word-wrap: break-word;
+}
+body{
+    font-family: Roboto;
+    background: #E6D5B9;
+}
+.header{
+    height: 158px;
+    background-color: #4E3835;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.title {
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 56px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #E6D5B9;
+    border-radius: 10px;
+    padding: 16px 25px;
+}
+.container {
+    padding: 50px 50px;    
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.left-blocks {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.img-1 {
+    width: 280px;
+  
+
+}
+.img-2 {
+    width: 280px;
+ 
+}
+.img-3 {
+
+    width: 280px;
+  
+}
+.block-1{
+    padding: 29px 43px;
+    display: flex;
+    margin-bottom: 20px;
+    box-sizing: border-box;
+    width: 750px;
+    height: 350px;
+border: 3px solid #4E3835;
+border-radius: 10px;
+    
+}
+.block-2{
+
+    padding: 29px 43px;
+    display: flex;
+    box-sizing: border-box;
+
+width: 750px;
+height: 355px;
+
+border: 3px solid #4E3835;
+border-radius: 10px;
+  
+  
+}
+.block-3{
+    padding: 29px 43px;
+    display: flex;
+  box-sizing: border-box;
+width: 367px;
+height: 736px;
+
+border: 3px solid #4E3835;
+border-radius: 10px;
+
+}
+.margin-top{
+    margin-top: 39px;
+}
+.margin-left{
+    margin-left: 50px;
+}
+.margin-right{
+    margin-right: 50px;
+}
+.block-title
+{
+font-weight: 300;
+font-size: 36px;
+line-height: 42px;
+color: #4E3835;
+display: block;
+text-decoration: none;
+text-align: center;
+
+}
+
+.block-title
+{
+    text-decoration: underline;
+}
+.block-description{
+  
+    width: 280px;
+    height: 420px;
+    left: 998px;
+    top: 229px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 23px;
+    
+    color: #4E3835;
+}
+
+.block-description1 {
+    width: 274px;
+height: 206px;
+left: 1004px;
+top: 759px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 23px;
+text-align: center;
+
+color: #4E3835;
+}
+
+
+
+
+
+
+
+
+    
