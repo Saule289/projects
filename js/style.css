@@ -1,0 +1,24 @@
+
+body 
+{
+font-family: 'Times New Roman', Times, serif;
+font-size: 18px;}
+
+.name {
+    margin: 20px 20px;
+    display: block;
+    justify-content: flex-start;
+    clear: both;
+    text-align: right;
+    line-height: 25px;
+}
+
+label {float: left; padding-right: 30px;}
+
+.block {
+    float: left;
+}
+
+.button {
+    margin: 20px 20px;
+}
